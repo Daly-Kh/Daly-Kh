@@ -1,16 +1,17 @@
-<!-- Matrix-style header banner -->
 <div align="center">
 
 ```
-██████╗  █████╗ ██╗  ██╗   ██╗    ██╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗
-██╔══██╗██╔══██╗██║  ╚██╗ ██╔╝    ██║ ██╔╝██║  ██║██╔═══██╗██║   ██║██║██║     ██╔══██╗██║
-██║  ██║███████║██║   ╚████╔╝     █████╔╝ ███████║██║   ██║██║   ██║██║██║     ██║  ██║██║
-██║  ██║██╔══██║██║    ╚██╔╝      ██╔═██╗ ██╔══██║██║   ██║██║   ██║██║██║     ██║  ██║██║
-██████╔╝██║  ██║███████╗██║       ██║  ██╗██║  ██║╚██████╔╝╚██████╔╝██║███████╗██████╔╝██║
-╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝
+ ██████████     █████████   █████       █████ █████            █████   ████ ██╗  ██╗
+░░███░░░░███   ███░░░░░███ ░░███       ░░███ ░░███            ░░███   ███░  ██║  ██║
+ ░███   ░░███ ░███    ░███  ░███        ░░███ ███              ░███  ███    ███████║
+ ░███    ░███ ░███████████  ░███         ░░█████    ██████████ ░███████     ██╔══██║
+ ░███    ░███ ░███░░░░░███  ░███          ░░███    ░░░░░░░░░░  ░███░░███    ██║  ██║
+ ░███    ███  ░███    ░███  ░███      █    ░███                ░███ ░░███   ██║  ██║
+ ██████████   █████   █████ ███████████    █████               █████ ░░████ ██║  ██║
+░░░░░░░░░░   ░░░░░   ░░░░░ ░░░░░░░░░░░    ░░░░░               ░░░░░   ░░░░ ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%7C+SOC+Analyst;Threat+Hunter+%7C+Incident+Responder;Securing+Systems+%2C+One+Log+at+a+Time;Always+be+Watching+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Cybersecurity+Engineer+%7C+SOC+Analyst;Threat+Hunter+%7C+Incident+Responder;Securing+Systems%2C+One+Log+at+a+Time;%5B+ALWAYS+WATCHING+%5D+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Daly-Kh&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Daly-Kh)
 [![GitHub followers](https://img.shields.io/github/followers/Daly-Kh?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/Daly-Kh?tab=followers)
@@ -24,7 +25,7 @@
 ```bash
 $ cat /etc/profile.d/daly.sh
 
-  Name     : Daly Khouildi
+  Name     : DALY  [ alias: Daly-KH ]
   Role     : Cybersecurity Engineer | SOC Analyst
   Location : France 🇫🇷
   Status   : [ACTIVE] — Monitoring threats 24/7
@@ -42,7 +43,7 @@ $ cat /etc/profile.d/daly.sh
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20ELK-00ff41?style=flat-square&logo=elastic&logoColor=white&labelColor=0d1117)
 ![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-Active-00ff41?style=flat-square&logo=virustotal&logoColor=white&labelColor=0d1117)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-Expert-00ff41?style=flat-square&logo=pagerduty&logoColor=white&labelColor=0d1117)
-![Forensics](https://img.shields.io/badge/Digital_Forensics-DFIR-00ff41?style=flat-square&logo=autopsy&logoColor=white&labelColor=0d1117)
+![Forensics](https://img.shields.io/badge/Digital_Forensics-DFIR-00ff41?style=flat-square&labelColor=0d1117)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vuln_Assessment-Nessus%20%7C%20OpenVAS-00ff41?style=flat-square&labelColor=0d1117)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-00ff41?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117)
 
@@ -65,7 +66,7 @@ $ cat /etc/profile.d/daly.sh
 
 ---
 
-## `> ./github-stats --user Daly-Kh`
+## `> ./github-stats --user Daly-KH`
 
 <div align="center">
 
@@ -91,7 +92,7 @@ $ cat /etc/profile.d/daly.sh
 
 <div align="center">
 
-[![Daly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daly-Kh&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Daly-KH activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daly-Kh&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -101,8 +102,8 @@ $ cat /etc/profile.d/daly.sh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-medali--khouildi-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/medali-khouildi)
-[![GitHub](https://img.shields.io/badge/GitHub-Daly--Kh-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Daly-Kh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daly--KH-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/medali-khouildi)
+[![GitHub](https://img.shields.io/badge/GitHub-Daly--KH-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Daly-Kh)
 [![Instagram](https://img.shields.io/badge/Instagram-daly__khouildi-00ff41?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/daly_khouildi)
 [![Facebook](https://img.shields.io/badge/Facebook-Daly.khouildi-00ff41?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://www.facebook.com/Daly.khouildi.2)
 
