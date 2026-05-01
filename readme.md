@@ -72,10 +72,12 @@ $ cat /etc/profile.d/daly.sh
 <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Daly-Kh&cc=0d1117&tc=00ff41&ic=00ff41&bc=0d1117" />
 </div>
 <div align="center">
-Show Image
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Daly-Kh&theme=matrix&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://github.com/Daly-Kh)
+ 
 </div>
 <div align="center">
-Show Image
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daly-Kh&layout=compact&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800)
+ 
 </div>
 
 ---
