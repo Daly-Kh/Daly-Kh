@@ -1,122 +1,117 @@
+<!-- Matrix-style header banner -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Daly Khouildi, am an IT enthousiaste and a Full Time Geek👨‍💻</div>  
-  
+```
+██████╗  █████╗ ██╗  ██╗   ██╗    ██╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗
+██╔══██╗██╔══██╗██║  ╚██╗ ██╔╝    ██║ ██╔╝██║  ██║██╔═══██╗██║   ██║██║██║     ██╔══██╗██║
+██║  ██║███████║██║   ╚████╔╝     █████╔╝ ███████║██║   ██║██║   ██║██║██║     ██║  ██║██║
+██║  ██║██╔══██║██║    ╚██╔╝      ██╔═██╗ ██╔══██║██║   ██║██║   ██║██║██║     ██║  ██║██║
+██████╔╝██║  ██║███████╗██║       ██║  ██╗██║  ██║╚██████╔╝╚██████╔╝██║███████╗██████╔╝██║
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝
+```
 
-<br/>  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%7C+SOC+Analyst;Threat+Hunter+%7C+Incident+Responder;Securing+Systems+%2C+One+Log+at+a+Time;Always+be+Watching+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Daly-Kh&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Daly-Kh)
+[![GitHub followers](https://img.shields.io/github/followers/Daly-Kh?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/Daly-Kh?tab=followers)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Dev Web  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" />  
-</div>  
-
-
-
-### Mobile  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## `> whoami`
 
+```bash
+$ cat /etc/profile.d/daly.sh
 
-### Programming & Scripting  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" />  
-</div>  
+  Name     : Daly Khouildi
+  Role     : Cybersecurity Engineer | SOC Analyst
+  Location : France 🇫🇷
+  Status   : [ACTIVE] — Monitoring threats 24/7
+  Mission  : Detect. Contain. Eradicate. Recover.
+```
 
+> _"The quieter you become, the more you are able to hear."_ — Kali Linux motto
 
+---
 
-### Database  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" />  
-</div>
+## `> cat skills.json`
 
-</td><td valign="top" width="33%">
+### 🛡️ Security & SOC
 
+![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20ELK-00ff41?style=flat-square&logo=elastic&logoColor=white&labelColor=0d1117)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-Active-00ff41?style=flat-square&logo=virustotal&logoColor=white&labelColor=0d1117)
+![Incident Response](https://img.shields.io/badge/Incident_Response-Expert-00ff41?style=flat-square&logo=pagerduty&logoColor=white&labelColor=0d1117)
+![Forensics](https://img.shields.io/badge/Digital_Forensics-DFIR-00ff41?style=flat-square&logo=autopsy&logoColor=white&labelColor=0d1117)
+![Vulnerability Assessment](https://img.shields.io/badge/Vuln_Assessment-Nessus%20%7C%20OpenVAS-00ff41?style=flat-square&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-00ff41?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117)
 
+### ⚙️ Languages & Scripting
 
-### Sys Admin & DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" />  
-</div>  
+![Python](https://img.shields.io/badge/Python-Automation-00ff41?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-Scripting-00ff41?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117)
+![PowerShell](https://img.shields.io/badge/PowerShell-Windows_Security-00ff41?style=flat-square&logo=powershell&logoColor=white&labelColor=0d1117)
+![C](https://img.shields.io/badge/C-Low_Level-00ff41?style=flat-square&logo=c&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-Backend-00ff41?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-Web_Sec-00ff41?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
 
+### 🖥️ Systems & Infrastructure
 
+![Linux](https://img.shields.io/badge/Linux-Kali%20%7C%20Ubuntu-00ff41?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-Containerization-00ff41?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
+![Azure](https://img.shields.io/badge/Azure-Cloud_Security-00ff41?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0d1117)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Embedded-00ff41?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-Version_Control-00ff41?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
 
-### Embedde  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
-</div>
+---
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Daly-Kh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/medali-khouildi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Daly.khouildi.2" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/daly_khouildi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Daly-Kh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+## `> ./github-stats --user Daly-Kh`
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
 
-<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daly-Kh&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daly-Kh&layout=compact&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daly-Kh&theme=matrix&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> cat activity.log`
+
+<div align="center">
+
+[![Daly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daly-Kh&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> netstat --connections`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-medali--khouildi-00ff41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/medali-khouildi)
+[![GitHub](https://img.shields.io/badge/GitHub-Daly--Kh-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Daly-Kh)
+[![Instagram](https://img.shields.io/badge/Instagram-daly__khouildi-00ff41?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/daly_khouildi)
+[![Facebook](https://img.shields.io/badge/Facebook-Daly.khouildi-00ff41?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://www.facebook.com/Daly.khouildi.2)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ CONNECTION SECURED ] ·· TLS 1.3 ·· AES-256-GCM ·· ECDHE-RSA ··
+        All systems nominal. No threats detected. Yet.
+```
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
